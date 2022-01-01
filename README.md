@@ -18,6 +18,7 @@ The following links provide interactive views to the Conos joint alignment resul
 - Conos object for Joint analysis of NK cells  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.conos.rds)
 - Cell annotation  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
 - Signature gene sets  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
+- Meta data  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
 
 
 ## Code availability:
