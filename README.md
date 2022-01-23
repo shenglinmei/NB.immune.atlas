@@ -2,11 +2,11 @@
 Interactive views of Conos results:
 The following links provide interactive views to the Conos joint alignment results shown in the manuscript:
 
-- Joint analysis of all samples [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//all.all.bin)  [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.pdf)
-- Analysis of Myeloid cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas//myeloid.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Myeloid.pdf)
-- Analysis of T cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//Tcell.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Tcell.pdf)
-- Analysis of B cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//Bcell.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Bcell.pdf)
-- Analysis of NK cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//NK.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.pdf)
+- Joint analysis of all samples [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//all.all.bin)  [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.cells.csv)
+- Analysis of Myeloid cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas//myeloid.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Myeloid.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/myeloid.cells.csv)
+- Analysis of T cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//Tcell.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Tcell.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/T.cells.csv)
+- Analysis of B cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//Bcell.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Bcell.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/B.cells.csv)
+- Analysis of NK cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//NK.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.cells.csv)
 
 
 ## Supplementary data resource:
@@ -16,9 +16,9 @@ The following links provide interactive views to the Conos joint alignment resul
 - Conos object for Joint analysis of T cells  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Tcell.conos.rds)
 - Conos object for Joint analysis of B cells  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Bcell.conos.rds)
 - Conos object for Joint analysis of NK cells  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.conos.rds)
-- Cell annotation  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
-- Signature gene sets  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
-- Meta data  [download :arrow_down:](https://github.com/shenglinmei/NB.immune.atlas)
+- Cell annotation  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.cells.csv)
+- Signature gene sets  [download :arrow_down:]http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Signature.genes.xlsx)
+- Meta data  [download :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/metaData.xlsx)
 
 
 ## Code availability:
