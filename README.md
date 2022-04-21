@@ -22,9 +22,7 @@ The following links provide interactive views to the Conos joint alignment resul
 
 
 ## Code availability:
-The accession numbers for the raw sequencing data and processed data in this paper are under the accession number: GSE147766![image](https://user-images.githubusercontent.com/1990871/164528677-2902cad7-8327-40d3-91b6-7bab8880772f.png)
-![Uploading image.png…]()
-.
+The accession numbers for the raw sequencing data and processed data in this paper are under the accession number: GSE147766.
 
 Code of data analysis is available at https://github.com/shenglinmei/NB.immune.atlas
 
