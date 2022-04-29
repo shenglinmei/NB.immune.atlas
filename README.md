@@ -4,7 +4,7 @@ The following links provide interactive views to the Conos joint alignment resul
 
 Tutorial video:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=12k0vl9wXXQ)
+[![Watch the video](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/example.png)](https://www.youtube.com/watch?v=12k0vl9wXXQ)
 
 
 - Joint analysis of all samples [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//all.all.bin)  [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin/NB.immune.atlas/data/all.cells.txt)
