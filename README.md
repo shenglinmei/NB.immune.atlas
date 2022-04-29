@@ -2,6 +2,11 @@
 Interactive views of Conos results:
 The following links provide interactive views to the Conos joint alignment results shown in the manuscript: (Please use Firefox or Chrome) 
 
+Tutorial video:
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=12k0vl9wXXQ)
+
+
 - Joint analysis of all samples [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//all.all.bin)  [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin/NB.immune.atlas/data/all.cells.txt)
 - Analysis of Myeloid cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps/myeloid.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Myeloid.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/myeloid.cells.txt)
 - Analysis of T cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//Tcell.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Tcell.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin/NB.immune.atlas/data/T.cells.txt)
