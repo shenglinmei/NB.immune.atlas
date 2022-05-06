@@ -15,8 +15,8 @@ Tutorial video:
 
 
 ## Supplementary Table:
-- The detailed ligand-receptor pairs  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S5.xlsx)
-
+- The detailed ligand-receptor pairs  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S8.xlsx)
+- The combined data that was used in this study  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S5.xlsx)
 
 
 ## Data resource:
