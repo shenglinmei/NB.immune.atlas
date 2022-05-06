@@ -14,7 +14,12 @@ Tutorial video:
 - Analysis of NK cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/apps//NK.all.bin) [embedding :blue_book:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.pdf) [cell annotation & clusters :arrow_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.cells.txt)
 
 
-## Supplementary data resource:
+## Supplementary Table:
+- The detailed ligand-receptor pairs  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S5.xlsx)
+
+
+
+## Data resource:
 
 - Conos object for joint analysis of all samples  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.conos.rds)
 - Conos object for Joint analysis of Myeloid cells  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/myeloid.conos.rds)
