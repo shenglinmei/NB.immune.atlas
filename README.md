@@ -10,20 +10,16 @@
 
 -->
 ## Supplementary Tables:
-- The detailed ligand-receptor pairs  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S8.xlsx)
-- The combined data that was used in this study  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Table.S5.xlsx)
+- The detailed ligand-receptor pairs  [download link :arrow_up_down:](https://docs.google.com/spreadsheets/d/1fIdBMTc0oSlClzWmHDo6vZzV_-GtpAy2/edit?usp=sharing&ouid=108519474074271692094&rtpof=true&sd=true)
+- The combined data that was used in this study  [download link :arrow_up_down:](https://docs.google.com/spreadsheets/d/1HZ4Zb41Uno6PDtijRI39PRuEE_UwBBXL/edit?usp=sharing&ouid=108519474074271692094&rtpof=true&sd=true)
 
 
 ## Data resource:
 
-- Conos object for joint analysis of all samples  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.conos.rds)
-- Conos object for Joint analysis of Myeloid cells  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/myeloid.conos.rds)
-- Conos object for Joint analysis of T cells  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Tcell.conos.rds)
-- Conos object for Joint analysis of B cells  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Bcell.conos.rds)
-- Conos object for Joint analysis of NK cells  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/NK.conos.rds)
-  <!-- - Cell annotation  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/all.cells.csv) -->
-- Signature gene sets  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/Signature.genes.xlsx)
-- Meta data  [download link :arrow_up_down:](http://pklab.med.harvard.edu/shenglin//NB.immune.atlas/data/metaData.xlsx)
+- Conos object for joint analysis of all samples  [download link :arrow_up_down:](https://drive.google.com/file/d/1Vocs-9QmtrLECa9JR_a6jkzIsZk30McU/view?usp=sharing)
+- Conos object for Major cell types  [download link :arrow_up_down:](https://drive.google.com/drive/folders/1T1hIvaTG6B3dhhWvQv7xpVvDL44EdnaE?usp=sharing)
+
+- Meta data  [download link :arrow_up_down:](https://docs.google.com/spreadsheets/d/1UT087ExKXC8fl8ev0878xZz1_n8TEsv0/edit?usp=sharing&ouid=108519474074271692094&rtpof=true&sd=true)
 
 
 ## Code availability:
